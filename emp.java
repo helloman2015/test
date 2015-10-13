@@ -7,6 +7,8 @@ class Emp
 		System.out.println("branch brh") ;
 	}
 
-	
+	public void patch(){
+		System.out.println("diff patch");
+	}
 
 }
